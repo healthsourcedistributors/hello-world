@@ -1,4 +1,4 @@
 # hello-world
-HealthSource Distributor's Repository
+HealthSource Distributors Repository
 
 I like finding solutions for pharmacies to increase their productivity.
